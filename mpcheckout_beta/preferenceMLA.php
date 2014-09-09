@@ -69,7 +69,7 @@ $preference = array(
             )
         ),'excluded_payment_types'=>array(array( 
             
-            'id'=> 'ticket'
+            'id'=> ''
             )
         ),'installments'=> 24
 		)
